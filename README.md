@@ -3,7 +3,7 @@
 Testing it out for now. If it's laggy, it's because it is being worked on.
 
 # Discord:
-[https://discord.gg/WefDD5mGNe](Click here!)
+<a href="https://discord.gg/WefDD5mGNe">https://discord.gg/WefDD5mGNe</a>
 
 # Itch.io:
-[https://arthur-lumertz.itch.io/taplixic](Click here!)
+<a href="https://arthur-lumertz.itch.io/taplixic">https://arthur-lumertz.itch.io/taplixic</a>
