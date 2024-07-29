@@ -1,0 +1,20 @@
+@Reviewer
+
+**New Early Build!**
+
+**List of new features:**
+
+// TODO:
+- Reduced world file sizes
+- Tweaked world loading & saving
+
+**Controls:**
+**W/A/S/D:** move
+**E:** inventory
+**F:** save world
+**Esc:** pause menu
+**F11:** toggle fullscreen
+**Left Click:** break block
+**Right Click:** place block/consume
+
+**JavaSE 8 or above is required to run Taplixic**
